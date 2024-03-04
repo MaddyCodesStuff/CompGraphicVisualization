@@ -1,0 +1,18 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (2DTriangles.vcxproj, 3DPyramid.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  mac_0_0.cpp
+C:\Users\dwt23\source\repos\2DTriangles\2DTriangles\mac_0_0.cpp(259,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dwt23\source\repos\2DTriangles\2DTriangles\mac_0_0.cpp(350,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dwt23\source\repos\2DTriangles\2DTriangles\mac_0_0.cpp(351,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dwt23\source\repos\2DTriangles\2DTriangles\mac_0_0.cpp(355,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dwt23\source\repos\2DTriangles\2DTriangles\mac_0_0.cpp(356,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dwt23\source\repos\2DTriangles\2DTriangles\mac_0_0.cpp(358,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dwt23\source\repos\2DTriangles\2DTriangles\mac_0_0.cpp(359,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dwt23\source\repos\2DTriangles\2DTriangles\mac_0_0.cpp(369,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\dwt23\source\repos\2DTriangles\2DTriangles\mac_0_0.cpp(433,12): warning C4101: 'rotation1': unreferenced local variable
+C:\Users\dwt23\source\repos\2DTriangles\2DTriangles\mac_0_0.cpp(434,12): warning C4101: 'rotation2': unreferenced local variable
+  Generating code
+  1 of 482 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  2DTriangles.vcxproj -> C:\Users\dwt23\source\repos\2DTriangles\Release\mac_0_0.exe
