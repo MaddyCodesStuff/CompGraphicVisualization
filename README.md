@@ -1,5 +1,7 @@
 2-5 Milestone: Design Doc
 
+![image](https://github.com/MaddyCodesStuff/CompGraphicVisualization/assets/85308357/72bffb13-2c52-4316-ba6e-d033a4746723)
+
 I chose this photo of an Apple Macintosh. Luckily there are many pictures of this computer at all kinds of different angles, so I will have plenty of reference material from all sides. 
 Technically it only really has 3 objects, but the keyboard and monitor are complicated enough that it will be quite a few different primitive objects, that I hope it will be acceptable. 
 The monitor body is made up of several cubes. From this picture you can tell it isn’t a perfect cube, so it will need to be broken down into at least one cube as the left face, one on the front, and one on the right. 
